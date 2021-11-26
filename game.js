@@ -66,7 +66,7 @@ getNewQuestion = () => {
         localStorage.setItem('mostRecentScore', score);
         clearInterval(getNewQuestion);
         //go to the end page
-        return window.location.assign('./Online-Assesment./end.html');
+        return window.location.assign('./Online-Assesment/end.html');
     }
     
 
