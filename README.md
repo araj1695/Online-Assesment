@@ -24,7 +24,7 @@ A deployed version can be checked here:  https://araj1695.github.io/Online-Asses
 2. Abhijeet Karmakar [https://github.com/abhij33t-9120]
 3. Sonali Mondal [https://github.com/mypanda1234]
 
-* `Frontend - JavaScript Functionality` : ***Abhijeet Karmakar***
+* `Backend - JavaScript Functionality` : ***Abhijeet Karmakar***
 * `Frontend - Html, Css` : ***Abhishek kumar Gupta, Sonali Mondal***
 
 
