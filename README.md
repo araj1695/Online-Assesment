@@ -2,7 +2,7 @@ https://user-images.githubusercontent.com/85796257/143618655-f87d6cd6-f0f0-4011-
 
 ## Online Assessment Platform
 This is an online assessment platform made by Abhishek kumar gupta, Abhijeet Karmakar and Sonali Mondal as the final project of Walkover University Training Program.
-The project is made over and HTML, CSS, JS as frontend, JavaScript as backend.
+The project is made over HTML, CSS and JS as frontend, JavaScript as backend.
 
 A deployed version can be checked here:  https://araj1695.github.io/Online-Assesment/
 
